@@ -1,7 +1,7 @@
-set(APPLICATION_DESCRIPTION "A libre SIP client")
+set(APPLICATION_DESCRIPTION "voyce")
 set(APPLICATION_ID "com.belledonnecommunications.linphone")
-set(APPLICATION_NAME Linphone)
-set(APPLICATION_URL "https://www.linphone.org")
-set(APPLICATION_VENDOR "Belledonne Communications")
+set(APPLICATION_NAME voyce)
+set(APPLICATION_URL "https://myce.world")
+set(APPLICATION_VENDOR "Secure communications by MYCE")
 
-set(EXECUTABLE_NAME linphone)
+set(EXECUTABLE_NAME voyce)
